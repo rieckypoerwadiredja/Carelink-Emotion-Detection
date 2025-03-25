@@ -1,5 +1,6 @@
 body {
   background-color: #fff6e4;
+  overflow: hidden;
 }
 .title {
   color: #d44043;
@@ -7,6 +8,8 @@ body {
 .appvide {
   display: flex;
   align-items: center;
+  max-width: 720px;
+  max-height: 550px;
 }
 
 .appcanvas {
