@@ -1,0 +1,25 @@
+body {
+  background-color: #fff6e4;
+}
+.title {
+  color: #d44043;
+}
+.appvide {
+  display: flex;
+  align-items: center;
+}
+
+.appcanvas {
+  position: absolute;
+  top: 100px;
+}
+
+.myapp {
+  background-color: #fff6e4;
+  display: flex;
+  width: 100vw;
+  height: 100vh;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
